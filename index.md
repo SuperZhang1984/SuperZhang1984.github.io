@@ -2,43 +2,24 @@
 
 You can use the [editor on GitHub](https://github.com/SuperZhang1984/SuperZhang1984.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## personnal data
+### name:zhang jie
+### gender:male
+### height:167cm
+### health：excellent
+### birthdate：dec 8, 1984 
+### birthplace：china 
+### mobile：17791916495
+### e-mail：clarkzhang1984@163.com
 
-### Markdown
+## Research direction
+### Machine Q & A
+###conversational system
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# personnal data
-## name:zhang jie
-## gender:male
-## height:167cm
-## health：excellent
-## birthdate：dec 8, 1984 
-## birthplace：china 
-## mobile：17791916495
-## e-mail：clarkzhang1984@163.com
-
-# Research direction
-## Machine Q & A
-## conversational system
-
-# professional experience
-## algorithm engineer, Huawei Technologies Noah's Ark Lab, 2017-2020
+## professional experience
+### algorithm engineer, Huawei Technologies Noah's Ark Lab, 2017-2020
 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

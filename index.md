@@ -9,8 +9,8 @@
 ### mobile：17791916495
 ### e-mail：clarkzhang1984@163.com
 
-## Research direction
-### Machine Q & A
+## research direction
+### Q & A system
 ### conversational system
 
 ## professional experience

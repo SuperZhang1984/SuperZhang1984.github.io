@@ -19,7 +19,7 @@
 
 ## Research Direction
 
-   Q & A system 
+   Q&A system 
    
    Dialogue system
    

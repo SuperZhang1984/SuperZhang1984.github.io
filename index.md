@@ -1,7 +1,7 @@
 
 ## Personnal Data
 
-   name: zhang jie
+   name: jie Zhang
    
    gender: male
    

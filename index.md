@@ -1,5 +1,5 @@
 
-## Personnal Data
+## Personal Data
 
    name: Jie Zhang
    

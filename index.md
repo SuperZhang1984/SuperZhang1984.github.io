@@ -15,7 +15,7 @@
    
    mobile：17791916495
    
-   e-mail：clarkzhang1984@163.com
+   e-mail：clark.zhang@huawei.com
 
 ## Research Direction
 

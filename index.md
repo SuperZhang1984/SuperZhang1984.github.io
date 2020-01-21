@@ -1,32 +1,32 @@
 
 ## Personnal Data
 
-###   name:zhang jie
+####   name:zhang jie
    
-###   gender:male
+####   gender:male
    
-###   height:167cm
+####   height:167cm
    
-###   health：excellent
+####   health：excellent
    
-###   birthdate：dec 8, 1984
+####   birthdate：dec 8, 1984
    
-###   birthplace：china
+####   birthplace：china
    
-###   mobile：17791916495
+####   mobile：17791916495
    
-###   e-mail：clarkzhang1984@163.com
+####   e-mail：clarkzhang1984@163.com
 
 ## Research Direction
 
-###   Q & A system 
+####  Q & A system 
    
-###   Dialogue system
+####  Dialogue system
    
 
 ## Professional Experience
 
-###   algorithm engineer, Huawei Technologies Noah's Ark Lab, 2017-2020
+####   algorithm engineer, Huawei Technologies Noah's Ark Lab, 2017-2020
 
 
 

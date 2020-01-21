@@ -21,7 +21,7 @@
 
 ###   Q & A system 
    
-###   conversational system
+###   Dialogue system
    
 
 ## Professional Experience
